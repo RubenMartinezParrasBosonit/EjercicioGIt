@@ -1,3 +1,4 @@
 Primera línea de fichero2
 Segunda línea de fichero2
 Tercera línea de fichero2
+Cuarta línea de fichero2
